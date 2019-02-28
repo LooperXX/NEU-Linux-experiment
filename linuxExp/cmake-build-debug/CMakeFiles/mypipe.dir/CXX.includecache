@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/mypipe.cpp
+unistd.h
+-
+signal.h
+-
+stdio.h
+-
+wait.h
+-
+cstdlib
+-
+

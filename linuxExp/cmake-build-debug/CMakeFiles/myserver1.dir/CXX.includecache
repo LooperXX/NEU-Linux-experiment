@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/myserver1.cpp
+sys/types.h
+-
+sys/msg.h
+-
+sys/ipc.h
+-
+cstdlib
+-
+cstdio
+-
+

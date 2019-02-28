@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myfork3.dir/myfork3.cpp.o CMakeFiles/myfork3.dir/myfork3_2.cpp.o  -o myfork3 

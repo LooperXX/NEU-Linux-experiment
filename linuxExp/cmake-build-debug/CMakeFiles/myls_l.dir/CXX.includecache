@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/myls_L.cpp
+stdio.h
+-
+sys/types.h
+-
+dirent.h
+-
+sys/stat.h
+-
+unistd.h
+-
+stdlib.h
+-
+cstring
+-
+pwd.h
+-
+grp.h
+-
+ctime
+-
+

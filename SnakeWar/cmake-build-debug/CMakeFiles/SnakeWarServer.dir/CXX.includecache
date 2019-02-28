@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/SnakeWar/server.cpp
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+cstdio
+-
+zconf.h
+-
+bits/stdc++.h
+-
+wait.h
+-
+unistd.h
+-
+signal.h
+-
+CLucene.h
+-
+

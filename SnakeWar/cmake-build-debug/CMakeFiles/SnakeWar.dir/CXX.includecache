@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/SnakeWar/game.cpp
+stdio.h
+-
+pthread.h
+-
+sys/time.h
+-
+curses.h
+-
+stdlib.h
+-
+zconf.h
+-
+

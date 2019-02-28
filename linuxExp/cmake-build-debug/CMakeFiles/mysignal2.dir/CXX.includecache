@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/mysignal2.cpp
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+

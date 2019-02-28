@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myls.dir/myls.cpp.o  -o myls 

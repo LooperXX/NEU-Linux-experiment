@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mycp.dir/mycp.cpp.o  -o mycp 

@@ -1,0 +1,6 @@
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/SnakeWarServer.dir
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/SnakeWarClient.dir
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/TestT.dir
+/home/looper/CLionProjects/SnakeWar/cmake-build-debug/CMakeFiles/SnakeWar.dir

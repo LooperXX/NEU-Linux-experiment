@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myp.dir/mypipe.cpp.o  -o myp 

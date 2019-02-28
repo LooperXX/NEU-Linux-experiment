@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/SnakeWar/testttt.cpp
+sys/socket.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+stdio.h
+-
+dnet.h
+-
+iostream
+-
+pthread.h
+-
+sys/time.h
+-
+curses.h
+-
+stdlib.h
+-
+zconf.h
+-
+vector
+-
+map
+-
+set
+-
+signal.h
+-
+limits
+-
+

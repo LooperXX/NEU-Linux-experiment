@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/mywebserver.cpp
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+string.h
+-
+cstdlib
+-
+dnet.h
+-
+zconf.h
+-
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+time.h
+-
+

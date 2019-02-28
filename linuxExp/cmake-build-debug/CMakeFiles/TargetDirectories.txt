@@ -1,0 +1,10 @@
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/mysignal.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/mymice.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/myserver2.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/mysignal2.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/mywebserver.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/myls_R.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/myls_L.dir
+/home/looper/CLionProjects/linuxExp/cmake-build-debug/CMakeFiles/mycp.dir

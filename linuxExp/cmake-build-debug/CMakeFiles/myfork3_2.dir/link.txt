@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myfork3_2.dir/myfork3_2.cpp.o CMakeFiles/myfork3_2.dir/mysignal.cpp.o  -o myfork3_2 

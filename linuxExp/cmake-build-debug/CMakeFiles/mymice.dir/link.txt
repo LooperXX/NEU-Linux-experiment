@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mymice.dir/mymice.cpp.o  -o mymice 

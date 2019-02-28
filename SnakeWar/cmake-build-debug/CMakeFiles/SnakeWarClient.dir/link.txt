@@ -1,0 +1,1 @@
+/usr/bin/c++  -lncurses -g   CMakeFiles/SnakeWarClient.dir/client.cpp.o  -o SnakeWarClient -lpthread 

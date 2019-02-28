@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/linuxExp.dir/mycp.cpp.o  -o linuxExp 

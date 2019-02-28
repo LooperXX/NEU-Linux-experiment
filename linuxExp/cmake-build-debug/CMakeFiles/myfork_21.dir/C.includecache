@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/looper/CLionProjects/linuxExp/myfork_21.c
+stdio.h
+-
+zconf.h
+-
+sys/timeb.h
+-
+sys/types.h
+-
+time.h
+-
+stdlib.h
+-
+

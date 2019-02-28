@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/curses.h.dir/test.cpp.o  -o curses.h 

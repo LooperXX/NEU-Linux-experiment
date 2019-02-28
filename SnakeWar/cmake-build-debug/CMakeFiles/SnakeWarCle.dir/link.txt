@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SnakeWarCle.dir/server.cpp.o  -o SnakeWarCle 

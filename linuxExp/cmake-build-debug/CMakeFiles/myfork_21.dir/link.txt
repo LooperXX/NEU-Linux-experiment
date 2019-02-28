@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/myfork_21.dir/myfork_21.c.o  -o myfork_21 
